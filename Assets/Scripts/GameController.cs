@@ -40,7 +40,7 @@ public class GameController : MonoBehaviour {
     }
     
     // デバッグ用に Console ビューに count 値を出力する
-    Debug.Log(count);
+    //Debug.Log(count);
   }
   
   // 問題を作成する
